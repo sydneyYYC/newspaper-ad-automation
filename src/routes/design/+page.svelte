@@ -4,7 +4,6 @@
 
 </script>
 
-<main class="flex">
+<main class="flex bg-slate-100">
   <ToolBar />
-  <h1>Design Page</h1>
 </main>
